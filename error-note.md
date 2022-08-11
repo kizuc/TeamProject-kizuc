@@ -1,4 +1,5 @@
-##### ⚡ 팀프로젝트를 하면서 겪은 오류를 개인적으로 정리합니다.
+##### ⚡⚡⚡ 팀프로젝트를 하면서 겪은 오류를 개인적으로 정리합니다. 
+<hr>
 
 
 ## The Tomcat server configuration Server at localhost-config is missing...
