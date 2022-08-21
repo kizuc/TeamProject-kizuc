@@ -9,3 +9,4 @@
 #### 해결 : 기존 서버 파일을 지우고 다시 설정해주면 된다.
 [해결 방법 자세히](https://kijuk.tistory.com/144?category=1056346)
 
+## org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException
