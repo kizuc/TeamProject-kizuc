@@ -8,26 +8,30 @@
 > 발생 원인 : Tomcat config가 꼬이면 생긴다.
 #### 해결 : 기존 서버 파일을 지우고 다시 설정해주면 된다.
 [해결 방법 자세히](https://kijuk.tistory.com/144?category=1056346)
+<br>
 
 ## [Github] There isn't anything to compare.
 깃허브 `push` 에서 발생
 > 발생 원인 : 깃허브 정책이 바뀌어서 생긴 문제
 #### 해결 : master-main 설정을 바꿔주면 된다.
 [해결 방법 자세히](https://kijuk.tistory.com/146)
+<br>
 
 ## [Spring] org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceExceptio스프
 DTO 멤버변수와 DB 컬럼명이 다른데 호환이 안돼서 발생(insert는 되는데 select가 안됨) 
-> 발생 원인 : mapper 단의 오류 
-> 이외에도  mapper의 명칭이 같은 namespace가 Application 내에 중복
-> mapper id, Parameter와 bean의 field명 틀림, 
+> 발생 원인 : mapper 단의 오류 <br>
+> 이외에도  mapper의 명칭이 같은 namespace가 Application 내에 중복 <br>
+> mapper id, Parameter와 bean의 field명 틀림, <br>
 > sql.xml에서 정의된 namespace와 DAO에서 호출하는 namespace가 다를 경우, 오타 등으로 발생한다.
 #### 해결 : 오류가 난 부분을 수정해주면 된다. 나같은 경우는 카멜케이스 표기법과 스네이크 표기법이 호환이 되지 않아 관련 마이바티스 세팅을 해주었다.
 [해결 방법 자세히](https://kijuk.tistory.com/155?category=1056346)
+<br>
 
 ## [Spring] HTTP 404 - 요청된 리소스 [/]은(는) 가용하지 않습니다.
 Invocation of init method failed; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'file [오류난 파일 경로]'; nested exception is org.apache.ibatis.builder.BuilderException: Error creating document instance.  Cause: org.xml.sax.SAXParseException; lineNumber: 68; columnNumber: 49; Attribute "resultType" must be declared for element type "update".
 > 발생 원인 : 서버 연결 오류, 나의 경우에는 mapper단의 resultType의 유무로 발생
 #### 해결 : resultType을 맞게 수정
 [해결 방법 자세히](https://kijuk.tistory.com/160?category=1056346)
+<br>
 
 
