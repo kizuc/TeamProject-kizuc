@@ -34,11 +34,30 @@ Invocation of init method failed; nested exception is org.springframework.core.N
 [해결 방법 자세히](https://kijuk.tistory.com/160?category=1056346)
 <hr>
 
-## [Spring] javax.mail.AuthenticationFailedException
+## [Spring] javax.mail.AuthenticationFailedException(535-5.7.8)
 Request processing failed; nested exception is org.springframework.mail.MailAuthenticationException: 
 Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted.<br><br>
+
 Gmail SMTP로 메일을 보내려다가 발생
 > 발생 원인 : 계정과 비밀번호가 일치하지 않아 발생
 #### 해결 : 맞게 고쳐주면 된다.
 [해결 방법 자세히](https://kijuk.tistory.com/162?category=1056346)
+<hr>
+
+
+## [Spring] javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 587;
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 587;
+nested exception is:<br>
+javax.net.ssl.SSLException: Unsupported or unrecognized SSL message. Failed messages: 
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 587;
+nested exception is:<br>
+javax.net.ssl.SSLException: Unsupported or unrecognized SSL message; message exceptions (1) are:
+Failed message 1: javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 587;
+nested exception is:<br>
+javax.net.ssl.SSLException: Unsupported or unrecognized SSL message]을(를) 발생시켰습니다.<br>
+
+Gmail SMTP로 메일을 보내려다가 발생
+> 발생 원인 : Gmail SMTP 인증을 거치지 않아서 발생
+#### 해결 : 기존의 계정비밀번호가 들어간 곳에 앱비밀번호를 설정해주면 된다.
+[해결 방법 자세히](https://kijuk.tistory.com/163?category=1056346)
 <hr>
