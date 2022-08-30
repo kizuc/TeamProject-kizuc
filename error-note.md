@@ -17,7 +17,7 @@
 [해결 방법 자세히](https://kijuk.tistory.com/146)
 <hr>
 
-## [Spring] org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceExceptio스프
+## [Spring] org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException
 DTO 멤버변수와 DB 컬럼명이 다른데 호환이 안돼서 발생(insert는 되는데 select가 안됨) 
 > 발생 원인 : mapper 단의 오류 <br>
 > 이외에도  mapper의 명칭이 같은 namespace가 Application 내에 중복 <br>
