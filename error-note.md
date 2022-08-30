@@ -54,7 +54,7 @@ nested exception is:<br>
 javax.net.ssl.SSLException: Unsupported or unrecognized SSL message; message exceptions (1) are:
 Failed message 1: javax.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 587;
 nested exception is:<br>
-javax.net.ssl.SSLException: Unsupported or unrecognized SSL message]을(를) 발생시켰습니다.<br>
+javax.net.ssl.SSLException: Unsupported or unrecognized SSL message]을(를) 발생시켰습니다.<br><br>
 
 Gmail SMTP로 메일을 보내려다가 발생
 > 발생 원인 : Gmail SMTP 인증을 거치지 않아서 발생
