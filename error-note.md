@@ -36,7 +36,7 @@ Invocation of init method failed; nested exception is org.springframework.core.N
 
 ## [Spring] javax.mail.AuthenticationFailedException
 Request processing failed; nested exception is org.springframework.mail.MailAuthenticationException: 
-Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted.
+Authentication failed; nested exception is javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted.<br>
 Gmail SMTP로 메일을 보내려다가 발생
 > 발생 원인 : 계정과 비밀번호가 일치하지 않아 발생
 #### 해결 : 맞게 고쳐주면 된다.
