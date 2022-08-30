@@ -10,11 +10,18 @@
 [해결 방법 자세히](https://kijuk.tistory.com/144?category=1056346)
 <hr>
 
-## [Github] There isn't anything to compare.
-깃허브 `push` 에서 발생
+## [Spring] org.springframework.web.servlet.PageNotFound - Request method 'GET' not supported
+매핑하다가 오류 발생
 > 발생 원인 : 깃허브 정책이 바뀌어서 생긴 문제
 #### 해결 : master-main 설정을 바꿔주면 된다.
 [해결 방법 자세히](https://kijuk.tistory.com/146)
+<hr>
+
+## [Github] There isn't anything to compare.
+깃허브 `push` 에서 발생
+> 발생 원인 : 해당 메소드가 GET 방식으로 지원하지 않는다.
+#### 해결 : 매핑 메서드 뿐 아니라 값을 들고오는 컴포넌트 단에 적힌 데이터 전송 방식을 바꾼다.
+[해결 방법 자세히](https://kijuk.tistory.com/148?category=1056346)
 <hr>
 
 ## [Spring] org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException
