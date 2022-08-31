@@ -57,12 +57,12 @@
 - DBMS : MySQL
 - 언어 : Java(8), JSP
 - 서버 : Tomcat
-### Tools
+### - Tools
 - 협업툴 : [Google Sheet - 일정관리](https://docs.google.com/spreadsheets/d/19oPNfCTL_OXyHovfZxVAREARITUT3rs9SKK6dXbfqek/edit?usp=sharing), [Google Docs - 회의록](https://docs.google.com/document/d/1PSWTycKDrVyLK1T_5gNeK7clSABQ1OIOJXGoVBxH6jU/edit?usp=sharing), 윔지컬
 - IDE : Eclipse(STS)
-### Version Control
+### - Version Control
 - Git, Github
-### 기타 API
+### - 기타 API
 - 다음 우편번호 서비스
 <br>
 <hr>
