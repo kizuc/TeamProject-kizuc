@@ -75,14 +75,16 @@
 
 ### 개념/논리모델링
 ![pt6](https://user-images.githubusercontent.com/108128650/187753550-f1c3511b-6388-4749-9cdc-1eb71d995a99.png)
+<br>
 
 ### 회의록
 ![보고서](https://user-images.githubusercontent.com/108128650/187753547-c69fa28b-4555-4a60-9c07-9a1d0230f58a.jpg)
 손그림, 윔지컬 이용해 모델링을 했고 회의와 메신저를 통해 의견을 공유했다. (회의록 업데이트 중)<br>
+<br>
 
 ### 벤치마킹
 ![mark](https://user-images.githubusercontent.com/108128650/187758607-f72fa5db-5c83-4b6c-a488-3721f34f6d2a.png)
-
+<br>
 <hr>
 
 ## 설계
