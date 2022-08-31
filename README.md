@@ -56,7 +56,7 @@
 - 언어 : Java(8), JSP
 - 서버 : Tomcat
 ### Tools
-- 협업툴 : [Google Sheet - 일정관리](https://docs.google.com/spreadsheets/d/19oPNfCTL_OXyHovfZxVAREARITUT3rs9SKK6dXbfqek/edit?usp=sharing), [Google Docs - 회의록](https://docs.google.com/document/d/1PSWTycKDrVyLK1T_5gNeK7clSABQ1OIOJXGoVBxH6jU/edit?usp=sharing), 
+- 협업툴 : [Google Sheet - 일정관리](https://docs.google.com/spreadsheets/d/19oPNfCTL_OXyHovfZxVAREARITUT3rs9SKK6dXbfqek/edit?usp=sharing), [Google Docs - 회의록](https://docs.google.com/document/d/1PSWTycKDrVyLK1T_5gNeK7clSABQ1OIOJXGoVBxH6jU/edit?usp=sharing), 윔지컬
 - IDE : Eclipse(STS)
 ### Version Control
 - Git, Github
@@ -70,7 +70,13 @@
 <br><br>
 <hr>
 
-## 설계
+## 설계 과정
+### 개념/논리모델링
+![pt6](https://user-images.githubusercontent.com/108128650/187753550-f1c3511b-6388-4749-9cdc-1eb71d995a99.png)
+손그림, 윔지컬 이용
+![보고서](https://user-images.githubusercontent.com/108128650/187753547-c69fa28b-4555-4a60-9c07-9a1d0230f58a.jpg)
+회의와 메신저를 통해 의견을 나누었다.
+
 ### ERD 다이어그램
 ![팀플erd](https://user-images.githubusercontent.com/108128650/187747172-3b36bcfc-cf13-449e-826e-71f738f849f7.png)
 ### 기능 설계
