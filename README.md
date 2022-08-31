@@ -5,7 +5,7 @@
 팀프로젝트에 관련된 것들을 정리합니다.
 <hr><hr>
 
-# 핏티드 Fitted
+# 나에게 딱 맞는 <핏티드 Fitted>
 <img width="50%" src="https://user-images.githubusercontent.com/108128650/187670001-4b00e7ed-d12b-49f2-9d06-0c7fb9b9693b.png"/>
 
 2조의 운동용품 쇼핑몰 '핏티드' 프로젝트 <br>
