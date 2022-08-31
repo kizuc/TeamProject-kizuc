@@ -78,12 +78,12 @@
 ![pt6](https://user-images.githubusercontent.com/108128650/187753550-f1c3511b-6388-4749-9cdc-1eb71d995a99.png)
 <br>
 
-### - 회의록
+### - 회의록 (업데이트 중)
 ![보고서](https://user-images.githubusercontent.com/108128650/187753547-c69fa28b-4555-4a60-9c07-9a1d0230f58a.jpg)
-손그림, 윔지컬 이용해 모델링을 했고 회의와 메신저를 통해 의견을 공유했다. (회의록 업데이트 중)<br>
+손그림, 윔지컬 이용해 모델링을 했고 회의와 메신저를 통해 의견을 공유했다.<br>
 <br>
 
-### - 일정 관리
+### - 일정 관리 (업데이트 중)
 ![일정관리](https://user-images.githubusercontent.com/108128650/187761902-e9781ce3-353c-409d-863e-f9a1794b511c.JPG)
 <br>
 
@@ -93,14 +93,14 @@
 <hr>
 
 ## 설계
-### - ERD 다이어그램
+### - ERD 다이어그램 (업데이트 중)
 ![팀플erd](https://user-images.githubusercontent.com/108128650/187747172-3b36bcfc-cf13-449e-826e-71f738f849f7.png)
 <br>
-### - 기능 설계
+### - 기능 설계 (업데이트 중)
 - 참고 => [구글 docs로 작성한 HTTP API 설계](https://docs.google.com/document/d/13xFg6rb-ijE4OgyMSpTWLmfi9NQ_jvxKPYn1LjvEivw/edit?usp=sharing) 
 <hr>
 
-## 프로젝트 화면
+## 프로젝트 화면 (업데이트 중)
 ![pt1](https://user-images.githubusercontent.com/108128650/187747124-c24d5776-0490-439d-9d4d-2815ab400b76.png)
 ![pt2](https://user-images.githubusercontent.com/108128650/187747121-8e7cb177-ea97-4623-8667-bd98a71e9973.png)
 ![pt3](https://user-images.githubusercontent.com/108128650/187747119-8f70646f-34c6-419e-8e6c-f73494d74101.png)
@@ -108,7 +108,7 @@
 ![pt5](https://user-images.githubusercontent.com/108128650/187747112-7a258c4b-41d5-471d-b97f-4d0118e9a222.png)
 <hr>
 
-## 구현 목록
+## 구현 목록 (업데이트 중)
 ### + Pages
  - [X] - 메인페이지 
  * 회원
