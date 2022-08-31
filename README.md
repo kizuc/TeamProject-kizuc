@@ -49,10 +49,10 @@
 <hr>
 
 ## 기술 스택
-### Front-end
+### - Front-end
 - 프레임워크 및 라이브러리 : Bootstrap5, jQuery, jQuery.ajax
 - 언어 : html, css, Javascript
-### Back-end
+### - Back-end
 - 프레임워크 및 라이브러리 : Spring, Mybatis
 - DBMS : MySQL
 - 언어 : Java(8), JSP
@@ -74,28 +74,29 @@
 
 ## 개발 과정
 
-### 개념/논리모델링
+### - 개념/논리모델링
 ![pt6](https://user-images.githubusercontent.com/108128650/187753550-f1c3511b-6388-4749-9cdc-1eb71d995a99.png)
 <br>
 
-### 회의록
+### - 회의록
 ![보고서](https://user-images.githubusercontent.com/108128650/187753547-c69fa28b-4555-4a60-9c07-9a1d0230f58a.jpg)
 손그림, 윔지컬 이용해 모델링을 했고 회의와 메신저를 통해 의견을 공유했다. (회의록 업데이트 중)<br>
 <br>
 
-### 일정 관리
+### - 일정 관리
 ![일정관리](https://user-images.githubusercontent.com/108128650/187761902-e9781ce3-353c-409d-863e-f9a1794b511c.JPG)
 <br>
 
-### 벤치마킹 
+### - 벤치마킹 
 ![mark](https://user-images.githubusercontent.com/108128650/187758607-f72fa5db-5c83-4b6c-a488-3721f34f6d2a.png)
 <br>
 <hr>
 
 ## 설계
-### ERD 다이어그램
+### - ERD 다이어그램
 ![팀플erd](https://user-images.githubusercontent.com/108128650/187747172-3b36bcfc-cf13-449e-826e-71f738f849f7.png)
-### 기능 설계
+<br>
+### - 기능 설계
 - 참고 => [구글 docs로 작성한 HTTP API 설계](https://docs.google.com/document/d/13xFg6rb-ijE4OgyMSpTWLmfi9NQ_jvxKPYn1LjvEivw/edit?usp=sharing) 
 <hr>
 
@@ -108,7 +109,7 @@
 <hr>
 
 ## 구현 목록
-### Pages
+### - Pages
  - [X] - 메인페이지 
  * 회원
  - [X] - 로그인 페이지
@@ -133,7 +134,7 @@
  * 관리자 페이지
 <br>
 
-### Function
+### - Function
  * 회원
  - [X] 로그인
  - [X] 회원가입
