@@ -75,6 +75,7 @@
 ![팀플erd](https://user-images.githubusercontent.com/108128650/187747172-3b36bcfc-cf13-449e-826e-71f738f849f7.png)
 ### 기능 설계
 - 참고 => [구글 docs로 작성한 HTTP API 설계](https://docs.google.com/document/d/13xFg6rb-ijE4OgyMSpTWLmfi9NQ_jvxKPYn1LjvEivw/edit?usp=sharing) 
+<hr>
 
 ## 프로젝트 화면
 ![pt1](https://user-images.githubusercontent.com/108128650/187747124-c24d5776-0490-439d-9d4d-2815ab400b76.png)
