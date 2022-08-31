@@ -3,7 +3,7 @@
 [📝 개발일지](https://github.com/kizuc/TeamProject-kizuc/blob/main/TID.md) | 
 [⚡ 에러노트](https://github.com/kizuc/TeamProject-kizuc/blob/main/error-note.md)
 팀프로젝트에 관련된 것들을 정리합니다.
-<hr>
+<hr><hr>
 
 # 핏티드 Fitted
 2조의 운동용품 쇼핑몰 '핏티드' 프로젝트 <br>
