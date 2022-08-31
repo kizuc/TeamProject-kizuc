@@ -6,6 +6,7 @@
 <hr><hr>
 
 # 핏티드 Fitted
+(https://github.com/kizuc/TeamProject-kizuc/issues/1#issue-1357210539)
 2조의 운동용품 쇼핑몰 '핏티드' 프로젝트 <br>
 - 배포주소 적을 예정
 <br><br>
