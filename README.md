@@ -1,4 +1,4 @@
-# 팀프로젝트 - 개인 기록
+# TeamProject-kizuc
 [💻 프로젝트 링크](https://github.com/TEAMPROJECT-2/Project) 팀프로젝트가 끝나면 해당 프로젝트를 이곳에 올릴 예정입니다.<br>
 [📝 개발일지](https://github.com/kizuc/TeamProject-kizuc/blob/main/TID.md) | 
 [⚡ 에러노트](https://github.com/kizuc/TeamProject-kizuc/blob/main/error-note.md)
