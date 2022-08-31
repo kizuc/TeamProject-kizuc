@@ -23,15 +23,18 @@
 7. [프로젝트 화면](#프로젝트-화면)
 8. [구현 목록](#구현-목록)
 <br>
+<hr>
 
 ## 서비스 소개
 업체가 소비자에게 운동상품을 팔 수 있고 회원끼리 이벤트에 참여하여 자신의 운동현황을 공유할 수 있는 운동용품 쇼핑몰 커뮤니티 사이트
 <br><br>
+<hr>
 
 ## 개발 배경
 팬데믹이 소강되고 있는 이 시점, 팬데믹 후유증을 운동으로 극복하려는 사람들로 인해 운동하는 인구가 증가하였다.<br> 
 미라클 라이프와 계획적인 삶을 추구하는 트렌드를 착안하여 운동 습관을 만들고 상품을 팔 수 있는 쇼핑몰 사이트를 개발하게 되었다. 
 <br><br>
+<hr>
 
 ## 담당 역할
 - 김주영 : `전반적인 레이아웃, CSS 담당` 메인, 로그인, 마이페이지, 회원 관리 담당
@@ -41,6 +44,7 @@
 - 이채연 : 장바구니, 관리자페이지, 업체페이지 담당
 - 전은표 : `DB 전반적인 테이블 작성 담당` 찜, 좋아요, 결제 담당
 <br>
+<hr>
 
 ## 기술 스택
 ### Front-end
@@ -59,14 +63,26 @@
 ### 기타 API
 - 다음 우편번호 서비스
 <br>
+<hr>
 
 ## 제작 기간
 2022.08.03 ~ 2022.09.30 (진행중)
 <br><br>
+<hr>
 
 ## 설계
+### ERD 다이어그램
+![팀플erd](https://user-images.githubusercontent.com/108128650/187747172-3b36bcfc-cf13-449e-826e-71f738f849f7.png)
+### 기능 설계
 - 참고 => [구글 docs로 작성한 HTTP API 설계](https://docs.google.com/document/d/13xFg6rb-ijE4OgyMSpTWLmfi9NQ_jvxKPYn1LjvEivw/edit?usp=sharing) 
 
 ## 프로젝트 화면
+![pt1](https://user-images.githubusercontent.com/108128650/187747124-c24d5776-0490-439d-9d4d-2815ab400b76.png)
+![pt2](https://user-images.githubusercontent.com/108128650/187747121-8e7cb177-ea97-4623-8667-bd98a71e9973.png)
+![pt3](https://user-images.githubusercontent.com/108128650/187747119-8f70646f-34c6-419e-8e6c-f73494d74101.png)
+![pt4](https://user-images.githubusercontent.com/108128650/187747117-1dc2b60a-00ce-4c8f-a888-e5d34e669afa.png)
+![pt5](https://user-images.githubusercontent.com/108128650/187747112-7a258c4b-41d5-471d-b97f-4d0118e9a222.png)
+<hr>
+
 ## 구현 목록
 
