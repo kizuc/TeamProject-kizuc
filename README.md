@@ -8,7 +8,7 @@
 # 나에게 딱 맞는 운동 쇼핑몰! <핏티드 Fitted>
 <img width="50%" src="https://user-images.githubusercontent.com/108128650/187670001-4b00e7ed-d12b-49f2-9d06-0c7fb9b9693b.png"/>
 
-2조의 운동용품 쇼핑몰 '핏티드' 프로젝트 <br>
+> 2조의 운동용품 쇼핑몰 '핏티드' 프로젝트 <br>
 - 배포주소 적을 예정
 <br><br>
 
