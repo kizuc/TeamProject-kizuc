@@ -67,7 +67,6 @@
 
 ## 제작 기간
 2022.08.03 ~ 2022.09.30 (진행중)
-<br>
 <hr>
 
 ## 개발 과정
@@ -91,14 +90,16 @@
 <hr>
 
 ## 설계
-### - ERD 다이어그램 (업데이트 중)
+### - ERD 다이어그램
 ![팀플erd](https://user-images.githubusercontent.com/108128650/187747172-3b36bcfc-cf13-449e-826e-71f738f849f7.png)
+업데이트 중...
 <br>
-### - 기능 설계 (업데이트 중)
+### - 기능 설계
 [기능 및 URI / 데이터 형식](https://docs.google.com/document/d/1gJzzP-Zj4Uw9-XBZmm_NiozNeszA2KQaJULUQQanliE/edit?usp=sharing)
+업데이트 중...
 <hr>
 
-## 프로젝트 화면 (업데이트 중)
+## 프로젝트 화면
 ![pt1](https://user-images.githubusercontent.com/108128650/187747124-c24d5776-0490-439d-9d4d-2815ab400b76.png)
 ![pt2](https://user-images.githubusercontent.com/108128650/187747121-8e7cb177-ea97-4623-8667-bd98a71e9973.png)
 ![pt3](https://user-images.githubusercontent.com/108128650/187747119-8f70646f-34c6-419e-8e6c-f73494d74101.png)
@@ -106,7 +107,7 @@
 ![pt5](https://user-images.githubusercontent.com/108128650/187747112-7a258c4b-41d5-471d-b97f-4d0118e9a222.png)
 <hr>
 
-## 구현 목록 (업데이트 중)
+## 구현 목록
 ### + Pages
  - [X] - 메인페이지 
  * 회원
@@ -151,4 +152,7 @@
  * 게시판
  - [X] - 게시글 등록, 삭제, 파일 첨부
 <br>
+
+## 평가
+
 
