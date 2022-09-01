@@ -39,7 +39,7 @@
 <hr>
 
 ## 담당 역할
-- 김주영 : `전반적인 레이아웃, CSS 담당` 메인, 로그인, 마이페이지, 회원 관리 담당
+- 김주영 : `전반적인 뷰페이지, CSS 담당` 메인, 로그인, 마이페이지, 회원 관리 담당
 - 김창현 : 커뮤니티 게시판(댓글, 공지), 쿠폰, 주문 담당
 - 손대호 : 주문/배송조회, 포인트, 상품추천 담당
 - 이윤경 : 상품 정보, 리뷰(별점, 비밀글), 챗봇, 신고, 검색 담당
@@ -55,7 +55,7 @@
 - 프레임워크 및 라이브러리 : Spring, Mybatis
 - DBMS : MySQL
 - 언어 : Java(8), JSP
-- 서버 : Tomcat
+- 서버 : Tomcat 8.5
 ### - Tools
 - 협업툴 : [Google Sheet - 일정관리](https://docs.google.com/spreadsheets/d/19oPNfCTL_OXyHovfZxVAREARITUT3rs9SKK6dXbfqek/edit?usp=sharing), [Google Docs - 회의록](https://docs.google.com/document/d/1PSWTycKDrVyLK1T_5gNeK7clSABQ1OIOJXGoVBxH6jU/edit?usp=sharing), 윔지컬
 - IDE : Eclipse(STS)
@@ -95,7 +95,7 @@
 ![팀플erd](https://user-images.githubusercontent.com/108128650/187747172-3b36bcfc-cf13-449e-826e-71f738f849f7.png)
 <br>
 ### - 기능 설계 (업데이트 중)
-- 참고 => [구글 docs로 작성한 HTTP API 설계](https://docs.google.com/document/d/13xFg6rb-ijE4OgyMSpTWLmfi9NQ_jvxKPYn1LjvEivw/edit?usp=sharing) 
+[기능 및 URI / 데이터 형식](https://docs.google.com/document/d/1gJzzP-Zj4Uw9-XBZmm_NiozNeszA2KQaJULUQQanliE/edit?usp=sharing)
 <hr>
 
 ## 프로젝트 화면 (업데이트 중)
