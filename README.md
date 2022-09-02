@@ -100,6 +100,7 @@
 
 [기능 및 URI / 데이터 형식 정리 문서](https://docs.google.com/document/d/1gJzzP-Zj4Uw9-XBZmm_NiozNeszA2KQaJULUQQanliE/edit?usp=sharing)
 
+<br>
 <hr>
 
 ## 프로젝트 화면
