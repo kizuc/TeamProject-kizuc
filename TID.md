@@ -262,6 +262,7 @@ Ajax의 success로 받아온 값에서 성공이라는 조건에 null이 포함�
 ### 220908
 - 관리자 페이지 생성
 - 아임포트 결제API 테스트 모드 문의
+- Spring Security 서치
 
 <hr>
 
