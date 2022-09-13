@@ -69,13 +69,13 @@ Gmail SMTP로 메일을 보내려다가 발생
 [해결 방법 자세히](https://kijuk.tistory.com/163?category=1056346)
 <hr>
 
-[Spring] Error creating bean with name requestMappingHandlerMapping
+## [Spring] Error creating bean with name requestMappingHandlerMapping
 > 발생 원인 : 특정 맵핑 경로가 중복되어 발생
 #### 해결 : 맵핑 경로를 수정해주면 된다.
 [해결 방법 자세히](https://kijuk.tistory.com/178)
 <hr>
 
-[Spring] Injection of autowired dependencies failed
+## [Spring] Injection of autowired dependencies failed
 > 발생 원인 : 빈을 스프링에 주입하지 않아서 발생
 #### 해결 : Service 인터페이스 파일은 있는데 특정 ServiceImpl 파일이 없어서 발생한 오류로 파일을 생성해주었다.
 [해결 방법 자세히](https://kijuk.tistory.com/179)
