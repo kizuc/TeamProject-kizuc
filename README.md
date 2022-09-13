@@ -81,7 +81,7 @@
 <br>
 
 ### - 일정 관리 (업데이트 중)
-![일정관리](https://user-images.githubusercontent.com/108128650/187761902-e9781ce3-353c-409d-863e-f9a1794b511c.JPG)
+![일정관리](https://user-images.githubusercontent.com/108128650/189941950-1c9721ab-461b-4f63-af41-1041755db080.JPG)
 <br>
 
 ### - 벤치마킹 
