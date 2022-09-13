@@ -57,7 +57,7 @@
 - 언어 : Java(8), JSP
 - 서버 : Tomcat 8.5
 ### - Tools
-- 협업툴 : [Google Sheet - 일정관리](https://docs.google.com/spreadsheets/d/19oPNfCTL_OXyHovfZxVAREARITUT3rs9SKK6dXbfqek/edit?usp=sharing), [Google Docs - 회의록](https://docs.google.com/document/d/1PSWTycKDrVyLK1T_5gNeK7clSABQ1OIOJXGoVBxH6jU/edit?usp=sharing), 윔지컬
+- 협업툴 : Google Sheet - 일정관리, Google Docs - 회의록, 윔지컬 - 설계
 - IDE : Eclipse(STS)
 ### - Version Control
 - Git, Github
