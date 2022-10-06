@@ -1,8 +1,8 @@
 # TeamProject-kizuc
-[💻 팀 프로젝트 링크](https://github.com/TEAMPROJECT-2/TP) 팀프로젝트를 진행 중인 링크입니다. 끝나면 프로젝트를 이곳에 올릴 예정입니다.<br>
+[💻 팀 프로젝트 링크](https://github.com/TEAMPROJECT-2/TP) 팀프로젝트를 진행한 링크로 전체 코드를 볼 수 있습니다.<br>
 [📝 개발일지](https://github.com/kizuc/TeamProject-kizuc/blob/main/TID.md)  | 
 [⚡ 에러노트](https://github.com/kizuc/TeamProject-kizuc/blob/main/error-note.md)
-팀프로젝트에 관련된 것들을 정리합니다.
+팀프로젝트에 관련된 것들을 개인적으로 정리합니다.
 <hr><hr>
 
 # 나에게 딱 맞는 운동 쇼핑몰! <핏티드 Fitted>
@@ -109,11 +109,13 @@
 <hr>
 
 ## 프로젝트 화면
-![pt1](https://user-images.githubusercontent.com/108128650/187747124-c24d5776-0490-439d-9d4d-2815ab400b76.png)
-![pt2](https://user-images.githubusercontent.com/108128650/187747121-8e7cb177-ea97-4623-8667-bd98a71e9973.png)
-![pt3](https://user-images.githubusercontent.com/108128650/187747119-8f70646f-34c6-419e-8e6c-f73494d74101.png)
-![pt4](https://user-images.githubusercontent.com/108128650/187747117-1dc2b60a-00ce-4c8f-a888-e5d34e669afa.png)
-![pt5](https://user-images.githubusercontent.com/108128650/187747112-7a258c4b-41d5-471d-b97f-4d0118e9a222.png)
+![ft1](https://user-images.githubusercontent.com/108128650/194319044-bc0561d8-2ceb-4bab-88ea-143a7e29ea47.PNG)
+![ft2](https://user-images.githubusercontent.com/108128650/194319052-e69f620b-5821-4006-af7f-17db58a32282.PNG)
+![ft6](https://user-images.githubusercontent.com/108128650/194319063-3f6e11ea-56f6-40d3-9bec-06129fe1a253.PNG)
+![ft3](https://user-images.githubusercontent.com/108128650/194319058-783aa85d-44e1-4e6f-b178-725d6f6857bd.PNG)
+![ft4](https://user-images.githubusercontent.com/108128650/194319060-08e15dfe-a799-4f5e-b66c-b8aeb76d41d8.PNG)
+![ft5](https://user-images.githubusercontent.com/108128650/194319062-37453246-bca4-45cf-b8a3-d7cb8b940c9b.PNG)
+
 <hr>
 
 ## 구현 목록
@@ -241,9 +243,5 @@
  * 챗봇
  - [X] - 고객상담 1:1 채팅
 <br>
-
-## 평가
-
-
 
 
