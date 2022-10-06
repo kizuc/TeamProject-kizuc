@@ -75,13 +75,13 @@
 ![pt6](https://user-images.githubusercontent.com/108128650/187753550-f1c3511b-6388-4749-9cdc-1eb71d995a99.png)
 <br>
 
-### - 회의록 (업데이트 중)
+### - 회의록
 ![보고서](https://user-images.githubusercontent.com/108128650/187753547-c69fa28b-4555-4a60-9c07-9a1d0230f58a.jpg)
 손그림으로 페이지를 그려보고 필수 기능 위주로 정리하는 과정을 윔지컬 이용해 모델링을 했고 회의와 메신저를 통해 의견을 공유했다.<br>
 <br>
 
-### - 일정 관리 (업데이트 중)
-![일정관리](https://user-images.githubusercontent.com/108128650/189941950-1c9721ab-461b-4f63-af41-1041755db080.JPG)
+### - 일정 관리
+![image](https://user-images.githubusercontent.com/108128650/194315776-9c4eea6b-631c-4d59-aa0b-83f4c6898f10.png)
 <br>
 
 ### - 벤치마킹 
