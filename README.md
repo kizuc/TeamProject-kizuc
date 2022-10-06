@@ -73,7 +73,7 @@
 
 ### - 개념/논리모델링
 ![pt6](https://user-images.githubusercontent.com/108128650/187753550-f1c3511b-6388-4749-9cdc-1eb71d995a99.png)
-<br>
+<br><br>
 
 ### - 회의록
 ![보고서](https://user-images.githubusercontent.com/108128650/187753547-c69fa28b-4555-4a60-9c07-9a1d0230f58a.jpg)
