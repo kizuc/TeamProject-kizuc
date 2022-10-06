@@ -99,6 +99,10 @@
 ### - 기능 설계
 
 [기능 및 URI / 데이터 형식 정리 문서](https://docs.google.com/document/d/1bD62gQZeH9kPO9id1HmV2T-vTDqM6hM2Vh1rFZxttUk/edit)
+![fit1](https://user-images.githubusercontent.com/108128650/194317415-22b88743-7bf4-4519-949f-69353283e191.PNG)
+![f2](https://user-images.githubusercontent.com/108128650/194317421-2a5db794-dd44-462c-95be-477eb3796c3f.PNG)
+![f3](https://user-images.githubusercontent.com/108128650/194317423-d5963d30-3753-47f1-b9d1-74dd3a50beb7.PNG)
+
 
 <br>
 <hr>
