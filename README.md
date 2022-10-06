@@ -90,15 +90,15 @@
 <hr>
 
 ## 설계
-### - ERD 다이어그램 (업데이트 중)
+### - ERD 다이어그램
 
 ![팀플erd](https://user-images.githubusercontent.com/108128650/187747172-3b36bcfc-cf13-449e-826e-71f738f849f7.png)
 
 <br>
 
-### - 기능 설계 (업데이트 중)
+### - 기능 설계
 
-[기능 및 URI / 데이터 형식 정리 문서](https://docs.google.com/document/d/1Bep4sCVTUXkl6zIJfLv8Oft9x7AtLScx19WQAvlL5K4/edit?usp=sharing)
+[기능 및 URI / 데이터 형식 정리 문서](https://docs.google.com/document/d/1bD62gQZeH9kPO9id1HmV2T-vTDqM6hM2Vh1rFZxttUk/edit)
 
 <br>
 <hr>
